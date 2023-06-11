@@ -1,0 +1,5 @@
+o (codigo)
+t (rua)
+dy (tem quadra coberta?)
+dw (tem piscina?)
+fd (quantidade salas utilizadas)
